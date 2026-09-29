@@ -1,5 +1,21 @@
 # Changelog
 
+## hms 1.1.4.9026
+
+### Chore
+
+- Auto-update from GitHub Actions
+  ([\#237](https://github.com/tidyverse/hms/issues/237)).
+
+### Continuous integration
+
+- Run coverage checks after pkgdown push.
+
+### Uncategorized
+
+- Feat(ci): Render `README.md` and `index.md` in CI
+  (cynkra/cynkratemplate#118).
+
 ## hms 1.1.4.9025
 
 ### Documentation
