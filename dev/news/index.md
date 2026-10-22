@@ -1,5 +1,12 @@
 # Changelog
 
+## hms 1.1.4.9027
+
+### Chore
+
+- Auto-update from GitHub Actions
+  ([\#239](https://github.com/tidyverse/hms/issues/239)).
+
 ## hms 1.1.4.9026
 
 ### Chore
