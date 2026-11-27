@@ -31,4 +31,5 @@ Other contributors:
 
 - R Consortium \[funder\]
 
-- Posit Software, PBC ([ROR](https://ror.org/03wc8by49)) \[funder\]
+- Posit Software, PBC (ROR: 03wc8by49, `https://ror.org/03wc8by49`)
+  \[funder\]
